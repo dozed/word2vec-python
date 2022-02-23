@@ -9,7 +9,7 @@ For a highly-optimized version of word2vec use the [Gensim implementation](https
 
 Training data can for example be downloaded from [http://mattmahoney.net/dc/text8.zip](http://mattmahoney.net/dc/text8.zip).
 
-For a conda environment see `env.yaml`.
+For a conda environment see [`env.yaml`](https://github.com/dozed/word2vec-python/blob/main/env.yaml).
 
 References:
 - [Commented version of word2vec C code](https://github.com/chrisjmccormick/word2vec_commented)
